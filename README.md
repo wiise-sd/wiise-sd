@@ -1,16 +1,71 @@
-## Hi there 👋
+# 🖥️ Carlos Sandro
+**`Desenvolvedor Fullstack`**
 
-<!--
-**wiise-sd/wiise-sd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Desenvolvedor em constante aprendizado, tentando manter o foco, mas sempre explorando novas ideias códigos, commits e café.</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ▶️ Linguagens e Tecnologias
+<img
+   align="left"
+   alt="html5"
+   title="html5"
+   width="30px"
+   style="padding-right: 10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+<img
+   align="left"
+   alt="css3"
+   title="css3"
+   width="30px"
+   style="padding-right: 10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+<img
+   align="left"
+   alt="javascript"
+   title="javascript"
+   width="30px"
+   style="padding-right: 10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
+/>
+<img
+   align="left"
+   alt="typescript"
+   title="typescript"
+   width="30px"
+   style="padding-right: 10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
+<img
+   align="left"
+   alt="react"
+   title="react"
+   width="30px"
+   style="padding-right: 10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+<img
+   align="left"
+   alt="express"
+   title="express"
+   width="30px"
+   style="padding-right: 10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"
+/>
+<img
+   align="left"
+   alt="nestjs"
+   title="nestjs"
+   width="30px"
+   style="padding-right: 10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
+/>
+<img
+   align="left"
+   alt="docker"
+   title="docker"
+   width="30px"
+   style="padding-right: 10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+/>
